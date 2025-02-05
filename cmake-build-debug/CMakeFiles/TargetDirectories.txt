@@ -1,0 +1,3 @@
+C:/Users/jorda/CLionProjects/COMP345_Assignment1/cmake-build-debug/CMakeFiles/COMP345_Assignment1.dir
+C:/Users/jorda/CLionProjects/COMP345_Assignment1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jorda/CLionProjects/COMP345_Assignment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
