@@ -1,11 +1,11 @@
-#ifndef AREA_DAMAGE_TOWER_H
-#define AREA_DAMAGE_TOWER_H
+#ifndef DIRECT_DAMAGE_TOWER_H
+#define DIRECT_DAMAGE_TOWER_H
 
 #include "Tower.h"
 
-class AreaDamageTower : public Tower {
+class DirectDamageTower : public Tower {
 public:
-    AreaDamageTower(sf::Vector2f pos);
+    DirectDamageTower(sf::Vector2f pos);
     void attack() override;
 };
 
